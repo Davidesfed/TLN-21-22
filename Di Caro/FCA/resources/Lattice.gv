@@ -1,0 +1,160 @@
+// <Lattice object of 8 atoms 41 concepts 5 coatoms at 0x27b97ed39a0>
+digraph Lattice {
+	node [label="" shape=circle style=filled width=.25]
+	edge [dir=none labeldistance=1.5 minlen=2]
+	c0
+	c1
+	c1 -> c1 [color=transparent headlabel=tigre labelangle=270]
+	c1 -> c0
+	c2
+	c2 -> c2 [color=transparent headlabel=delfino labelangle=270]
+	c2 -> c0
+	c3
+	c3 -> c3 [color=transparent headlabel=scimmia labelangle=270]
+	c3 -> c0
+	c4
+	c4 -> c4 [color=transparent headlabel=serpente labelangle=270]
+	c4 -> c4 [color=transparent labelangle=90 taillabel=velenoso]
+	c4 -> c0
+	c5
+	c5 -> c5 [color=transparent headlabel=gufo labelangle=270]
+	c5 -> c5 [color=transparent labelangle=90 taillabel=volo]
+	c5 -> c0
+	c6
+	c6 -> c6 [color=transparent headlabel=gatto labelangle=270]
+	c6 -> c0
+	c7
+	c7 -> c7 [color=transparent headlabel=squalo labelangle=270]
+	c7 -> c0
+	c8
+	c8 -> c8 [color=transparent headlabel=pinguino labelangle=270]
+	c8 -> c0
+	c9
+	c9 -> c1
+	c9 -> c2
+	c10
+	c10 -> c1
+	c10 -> c3
+	c11
+	c11 -> c1
+	c11 -> c4
+	c12
+	c12 -> c1
+	c12 -> c5
+	c13
+	c13 -> c13 [color=transparent headlabel=cane labelangle=270]
+	c13 -> c1
+	c14
+	c14 -> c1
+	c14 -> c6
+	c15
+	c15 -> c15 [color=transparent labelangle=90 taillabel=acquatico]
+	c15 -> c2
+	c15 -> c7
+	c16
+	c16 -> c3
+	c16 -> c4
+	c17
+	c17 -> c3
+	c17 -> c6
+	c18
+	c18 -> c4
+	c18 -> c6
+	c19
+	c19 -> c19 [color=transparent labelangle=90 taillabel=ectotermico]
+	c19 -> c4
+	c19 -> c7
+	c20
+	c20 -> c20 [color=transparent labelangle=90 taillabel=becco]
+	c20 -> c5
+	c20 -> c8
+	c21
+	c21 -> c10
+	c21 -> c12
+	c22
+	c22 -> c10
+	c22 -> c13
+	c23
+	c23 -> c8
+	c23 -> c10
+	c24
+	c24 -> c12
+	c24 -> c13
+	c25
+	c25 -> c25 [color=transparent labelangle=90 taillabel=artigliato]
+	c25 -> c12
+	c25 -> c14
+	c26
+	c26 -> c13
+	c26 -> c14
+	c27
+	c27 -> c27 [color=transparent labelangle=90 taillabel=si_arrampica]
+	c27 -> c16
+	c27 -> c17
+	c27 -> c18
+	c28
+	c28 -> c9
+	c28 -> c23
+	c29
+	c29 -> c9
+	c29 -> c26
+	c30
+	c30 -> c11
+	c30 -> c16
+	c30 -> c23
+	c31
+	c31 -> c31 [color=transparent labelangle=90 taillabel=territoriale]
+	c31 -> c21
+	c31 -> c22
+	c31 -> c24
+	c32
+	c32 -> c32 [color=transparent labelangle=90 taillabel=solitario]
+	c32 -> c11
+	c32 -> c12
+	c32 -> c19
+	c33
+	c33 -> c11
+	c33 -> c18
+	c33 -> c26
+	c34
+	c34 -> c9
+	c34 -> c15
+	c34 -> c32
+	c35
+	c35 -> c17
+	c35 -> c22
+	c35 -> c23
+	c35 -> c26
+	c36
+	c36 -> c36 [color=transparent labelangle=90 taillabel=diurno]
+	c36 -> c27
+	c36 -> c30
+	c36 -> c33
+	c36 -> c35
+	c37
+	c37 -> c37 [color=transparent headlabel=cavallo labelangle=270]
+	c37 -> c37 [color=transparent labelangle=90 taillabel=peloso]
+	c37 -> c28
+	c37 -> c29
+	c37 -> c35
+	c38
+	c38 -> c38 [color=transparent labelangle=90 taillabel=selvatico]
+	c38 -> c20
+	c38 -> c21
+	c38 -> c28
+	c38 -> c30
+	c38 -> c34
+	c39
+	c39 -> c39 [color=transparent labelangle=90 taillabel="carnivoro predatore"]
+	c39 -> c24
+	c39 -> c25
+	c39 -> c29
+	c39 -> c33
+	c39 -> c34
+	c40
+	c40 -> c31
+	c40 -> c36
+	c40 -> c37
+	c40 -> c38
+	c40 -> c39
+}

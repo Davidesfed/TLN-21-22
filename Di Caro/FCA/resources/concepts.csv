@@ -1,0 +1,11 @@
+animale,carnivoro,predatore,acquatico,selvatico,territoriale,diurno,volo,ectotermico,solitario,velenoso,peloso,artigliato,si_arrampica,becco
+tigre,X,X,,X,X,X,,,X,,X,X,x,
+delfino,X,X,X,X,,,,,,,X,,,
+cavallo,,,,,,X,,,,,X,,,
+scimmia,,,,X,X,X,,,,,X,,X,
+serpente,X,X,,X,,X,,X,X,X,,,X,
+gufo,X,X,,X,X,,X,,X,,,X,,X
+cane,X,X,,,X,X,,,,,X,,,
+gatto,X,X,,,,X,,,,,X,X,X,
+squalo,X,X,X,X,,,,X,X,,,,,
+pinguino,,,,X,,X,,,,,X,,,X
